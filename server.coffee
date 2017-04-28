@@ -12,6 +12,15 @@ app.use coffeeServer
 app.use sourceMapServer
 app.use devlServer
 
-process.chdir os.homedir()
+app.get '/devl', (req, res) ->
+    res.send 'OK'
 
-app.listen 3333
+port = 3333
+root = os.homedir()
+
+process.chdir root
+
+app.listen port
+
+console.log "Server started on #{port}."
+console.log "The root path is #{root}."
