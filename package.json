@@ -2,10 +2,12 @@
   "name": "devl",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start:server": "nodemon server.coffee",
     "start:cli": "coffee cli.coffee"
+  },
+  "bin": {
+    "devl": "bin.js"
   },
   "repository": {
     "type": "git",
