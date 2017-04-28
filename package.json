@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.coffee"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,10 @@
   "homepage": "https://github.com/audinue/devl#readme",
   "dependencies": {
     "coffee-script": "^1.12.5",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "rollup": "^0.41.6",
+    "rollup-plugin-coffee-script": "^1.1.0",
+    "rollup-plugin-node-resolve": "^3.0.0"
   }
 }

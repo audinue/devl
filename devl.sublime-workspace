@@ -1,0 +1,1139 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bun",
+				"bundle"
+			],
+			[
+				"sou",
+				"sourceMapServer"
+			],
+			[
+				"s",
+				"sourceMapFile"
+			],
+			[
+				"coff",
+				"coffeeServer"
+			],
+			[
+				"cof",
+				"coffeeScript"
+			],
+			[
+				"rep",
+				"replaceAlpha"
+			],
+			[
+				"sna",
+				"snakeCase"
+			],
+			[
+				"p",
+				"param	keyword"
+			],
+			[
+				"St",
+				"StatelessComponentNode	class"
+			],
+			[
+				"ren",
+				"rendered	property"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"r",
+				"realizeProps	method"
+			],
+			[
+				"re",
+				"realized	property"
+			],
+			[
+				"cl",
+				"classNames"
+			],
+			[
+				"cla",
+				"classNames"
+			],
+			[
+				"pa",
+				"parseSelector"
+			],
+			[
+				"sty",
+				"styleValue"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"Vi",
+				"VirtualTextNode"
+			],
+			[
+				"rea",
+				"realize"
+			],
+			[
+				"real",
+				"realize"
+			],
+			[
+				"chi",
+				"child"
+			],
+			[
+				"de",
+				"detached"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"notifyDe",
+				"notifyDetaching"
+			],
+			[
+				"notifyDeta",
+				"notifyDetached"
+			],
+			[
+				"mark",
+				"markdown-body"
+			],
+			[
+				"upd",
+				"updates"
+			],
+			[
+				"Ob",
+				"ObserverComponent"
+			],
+			[
+				"Hell",
+				"HelloWorld"
+			],
+			[
+				"render",
+				"renderToString"
+			],
+			[
+				"func",
+				"function	keyword"
+			],
+			[
+				"Com",
+				"Component	class"
+			],
+			[
+				"fun",
+				"function	keyword"
+			],
+			[
+				"th",
+				"this	keyword"
+			],
+			[
+				"x",
+				"xxx	fn "
+			],
+			[
+				"pro",
+				"prototype	{} "
+			],
+			[
+				"fo",
+				"foo"
+			],
+			[
+				"Awe",
+				"Awesome	fn "
+			],
+			[
+				"ex",
+				"extends	? "
+			],
+			[
+				"roll",
+				"rollup-plugin-multidest"
+			],
+			[
+				"rol",
+				"rollup-plugin-multidest"
+			],
+			[
+				"A",
+				"Arguments"
+			],
+			[
+				"W",
+				"WScript"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"com",
+				"commands"
+			],
+			[
+				"st",
+				"stdio"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"t",
+				"typeof"
+			],
+			[
+				"new",
+				"newSource"
+			],
+			[
+				"gen",
+				"generator"
+			],
+			[
+				"cop",
+				"copyFiles"
+			],
+			[
+				"tem",
+				"templateModule"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"creat",
+				"createInstance"
+			],
+			[
+				"dir",
+				"directoryExists"
+			],
+			[
+				"gene",
+				"generate"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"wa",
+				"watched"
+			],
+			[
+				"res",
+				"resolved"
+			],
+			[
+				"reos",
+				"resolved"
+			],
+			[
+				"lo",
+				"log	log"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"stat",
+				"stats"
+			],
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"hel",
+				"helloWorld"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"array_fl",
+				"array_flatten"
+			],
+			[
+				"array",
+				"array_merge"
+			],
+			[
+				"n",
+				"newTarget"
+			],
+			[
+				"cre",
+				"createDirectory"
+			],
+			[
+				"is",
+				"isDirectory"
+			],
+			[
+				"crea",
+				"createFile"
+			],
+			[
+				"thr",
+				"throwNext"
+			],
+			[
+				"sen",
+				"send-error"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"get",
+				"getJson"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
+				"prom",
+				"promised"
+			],
+			[
+				"do",
+				"doStatementE"
+			],
+			[
+				"doStatement",
+				"doStatementC"
+			],
+			[
+				"De",
+				"DecisionCollector"
+			],
+			[
+				"deci",
+				"decideThat"
+			],
+			[
+				"false",
+				"falsePromise"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"m",
+				"mtime"
+			],
+			[
+				"cr",
+				"createServer"
+			],
+			[
+				"op",
+				"openBrowser"
+			],
+			[
+				"start",
+				"startServer"
+			],
+			[
+				"send",
+				"sendBundle"
+			],
+			[
+				"min",
+				"minify"
+			],
+			[
+				"ch",
+				"checkConditionA"
+			],
+			[
+				"doS",
+				"doStatementB"
+			],
+			[
+				"modu",
+				"moduleName"
+			],
+			[
+				"camel",
+				"camelCase"
+			],
+			[
+				"ext",
+				"extensions"
+			],
+			[
+				"resol",
+				"resolve"
+			],
+			[
+				"reso",
+				"resolve"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"cle",
+				"cleaner"
+			],
+			[
+				"clean",
+				"clean-coffee"
+			],
+			[
+				"Hel",
+				"HelperDeclaration"
+			],
+			[
+				"pat",
+				"pattern"
+			],
+			[
+				"pl",
+				"plugin"
+			],
+			[
+				"su",
+				"suffix"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"fr",
+				"fragment"
+			],
+			[
+				"helpe",
+				"helper"
+			],
+			[
+				"repl",
+				"replace"
+			],
+			[
+				"appl",
+				"applySubstitute"
+			],
+			[
+				"fin",
+				"findSubstitute"
+			],
+			[
+				"patt",
+				"pattern"
+			],
+			[
+				"log",
+				"log	log"
+			],
+			[
+				"esx",
+				"escapeRegExp"
+			],
+			[
+				"fra",
+				"fragments"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"L",
+				"List"
+			],
+			[
+				"Li",
+				"ListItem"
+			],
+			[
+				"State",
+				"StatelessComponentNode"
+			],
+			[
+				"ne",
+				"nextState"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"di",
+				"differentObject"
+			],
+			[
+				"no",
+				"notifyMounted"
+			],
+			[
+				"noti",
+				"notifyMounted"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package Con",
+		"selected_items":
+		[
+			[
+				"package Con",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"Typ",
+				"TypeScript: Show Error List"
+			],
+			[
+				"Types",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"Typescri",
+				"TypeScript: Show Error List"
+			],
+			[
+				"Coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Markdown",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"Type",
+				"TypeScript: Format Document"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Q",
+				"TypeScript: Quick Info Documentation"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"Ty",
+				"TypeScript: Quick Info Documentation"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Ter",
+				"Terminal: Open"
+			],
+			[
+				"Shell",
+				"ShellCommand"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Loc",
+				"Local History: Browse"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Mark",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"Bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Trim",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"JavaS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Brow",
+				"Build With: Browser"
+			],
+			[
+				"Pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"Sty",
+				"Stylus: Compile File"
+			],
+			[
+				"",
+				"Coffee: Display JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/audinue/Desktop/devl"
+	],
+	"file_history":
+	[
+		"/C/Users/audinue/Desktop/devl/package.json",
+		"/C/Users/audinue/Desktop/devl/coffee-server.coffee",
+		"/C/Users/audinue/Desktop/devl/devl-server.coffee",
+		"/C/Users/audinue/Desktop/hello.coffee",
+		"/C/Users/audinue/Desktop/devl/server.coffee",
+		"/C/Users/audinue/Desktop/hello-world.coffee",
+		"/C/Users/audinue/Desktop/devl/source-map-server.coffee",
+		"/C/Users/audinue/Desktop/devl/README.md",
+		"/C/Users/audinue/.git-credentials",
+		"/C/Users/audinue/Desktop/kebab-case/dist/kebab-case.cjs.js",
+		"/C/Users/audinue/Desktop/kebab-case/package.json",
+		"/C/Users/audinue/Desktop/kebab-case/rollup.config.js",
+		"/C/Users/audinue/Desktop/kebab-case/README.md",
+		"/C/Users/audinue/Desktop/kebab-case/dist/kebab-case.es.js",
+		"/C/Users/audinue/Desktop/kebab-case/dist/kebab-case.es.js.map",
+		"/C/Users/audinue/Desktop/kebab-case/dist/kebab-case.cjs.js.map",
+		"/C/Users/audinue/Desktop/kebab-case/src/kebab-case.coffee",
+		"/C/Users/audinue/Desktop/snake-case/package.json",
+		"/C/Users/audinue/Desktop/snake-case/LICENSE.md",
+		"/C/Users/audinue/Desktop/snake-case/README.md",
+		"/C/Users/audinue/Desktop/hypercoffee/hypercoffee.sublime-project",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/audinue/Desktop/test/typings.json",
+		"/C/Users/audinue/Desktop/test/typings/modules/react/index.d.ts",
+		"/C/Users/audinue/Desktop/test/typings/index.d.ts",
+		"/C/Users/audinue/node_modules/react/package.json",
+		"/C/Users/audinue/node_modules/react-dom/package.json",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/node.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/element-node.coffee",
+		"/C/Users/audinue/node_modules/inferno/dist-es/index.d.ts",
+		"/C/Users/audinue/node_modules/inferno/dist/index.d.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/test.tsx",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/VirtualElementNode.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/StatelessComponentNode.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/src/components/Props.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/src/components/StatelessComponent.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/VirtualNode.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/VirtualTextNode.ts",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/index.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/VirtualNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/VirtualElementNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/VirtualTextNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/hyperscript.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/StatelessComponentNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/hyperscript.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/Node.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/TextNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/ElementNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/StatelessComponentNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/ComponentNode.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/component-node.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/README.md",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/ElementNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/components/Component.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/utils/index.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/text-node.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/Node.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/TextNode.coffee",
+		"/C/Users/audinue/Desktop/component.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/components/index.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/ComponentNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/nodes/StatefulComponentNode.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/index.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/StatefulComponentNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/Node.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/TextNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/ElementNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/ComponentNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/src/StatelessComponentNode.coffee",
+		"/C/Users/audinue/Desktop/hypercoffee/.sublime-project",
+		"/C/Users/audinue/Desktop/README.md",
+		"/C/Users/audinue/Desktop/node_modules/light/src/hyperscript.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/unmount.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/mount.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/create-element.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/component.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/stateless-component-node.coffee",
+		"/C/Users/audinue/Desktop/node_modules/light/src/node/stateful-component-node.coffee",
+		"/C/Users/audinue/Desktop/test.hta",
+		"/C/Users/audinue/Documents/visual studio 2012/Projects/Tugas6/Tugas6/bin/Debug/barang.xml",
+		"/C/Users/audinue/Desktop/README-template.md",
+		"/C/Users/audinue/Downloads/MICROSOFT VISUAL STUDIO ULTIMATE 2012 RTM VOLUME ENGLISH ISO-WZT [ThumperDC]/MICROSOFT VISUAL STUDIO ULTIMATE 2012 RTM VOLUME ENGLISH ISO-WZT [ThumperDC].NFO",
+		"/C/Users/audinue/Desktop/lol.tsx",
+		"/C/Users/audinue/Desktop/lol.ts",
+		"/C/Users/audinue/Desktop/lol.coffee",
+		"/C/Users/audinue/Desktop/z.js",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/typescript/Preferences.sublime-settings",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/typescript/TypeScriptReact.sublime-settings",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/typescript/TypeScript.sublime-settings",
+		"/C/Users/audinue/Desktop/b.js",
+		"/C/Users/audinue/Desktop/a.js",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/C/Users/audinue/Desktop/node_modules/light/src/index.coffee",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-multidest/README.md",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-multidest/index.js",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-multidest/.gitignore",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-multidest/package.json",
+		"/C/Users/audinue/Desktop/test/rollup.config.js",
+		"/C/Users/audinue/Desktop/test/app.es.js",
+		"/C/Users/audinue/Desktop/test/app.iife.js",
+		"/C/Users/audinue/Desktop/test/app.cjs.js",
+		"/C/Users/audinue/Desktop/new-browser-lib/template/((name))/rollup.config.test.js",
+		"/C/Users/audinue/Desktop/test/app.js",
+		"/C/node_modules/rollup/dist/rollup.browser.js",
+		"/C/node_modules/rollup/dist/rollup.es.js",
+		"/C/node_modules/rollup/dist/rollup.js",
+		"/C/Users/audinue/Desktop/test/index.js",
+		"/C/Users/audinue/Desktop/lib/src/((name)).coffee",
+		"/C/Users/audinue/Desktop/lib/test/test.html",
+		"/C/Users/audinue/Desktop/lib/test/test.coffee",
+		"/C/Users/audinue/Desktop/lib/rollup.config.test.js",
+		"/C/Users/audinue/Desktop/lib/rollup.config.es.js",
+		"/C/Users/audinue/Desktop/lib/rollup.config.cjs.js",
+		"/C/Users/audinue/Desktop/lib/package.json",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-execute/index.js",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-execute/README.md",
+		"/C/Users/audinue/Desktop/activate.js",
+		"/C/Users/audinue/Desktop/test.js",
+		"/C/Users/audinue/Desktop/test.html",
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-execute/package.json",
+		"/C/Users/audinue/Desktop/selenium.js",
+		"/C/Users/audinue/Desktop/lib/lib.sublime-project",
+		"/C/Users/audinue/Desktop/lib/src/lib.coffee",
+		"/C/Users/audinue/Desktop/lib/test/lib.js",
+		"/C/Users/audinue/Desktop/lib/dist/lib.es.js",
+		"/C/Users/audinue/Desktop/lib/rollup.config.iife.js",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"file",
+			"sourceMapSever",
+			"\\s+[A-Z].+",
+			"\\s\\s+",
+			"/\\s\\s+/",
+			",",
+			"JSX",
+			"names",
+			"classNames",
+			"match",
+			"selector",
+			"type",
+			"parse",
+			"render",
+			"mount",
+			"call",
+			"notifyDetached",
+			"notifyDetaching",
+			"notifyAttached",
+			"target",
+			"you",
+			"mini-ui",
+			"ui",
+			"miniui",
+			"minicom",
+			"uknown",
+			"composable",
+			"Component",
+			"@audinue/component",
+			"and",
+			"or",
+			" type=\"text/css\"",
+			" />",
+			"and",
+			"or",
+			"Element",
+			"`VirtualNode`",
+			"VirtualNode",
+			"Node",
+			"default",
+			"state",
+			"coffeebean",
+			"sugarcube",
+			"@audinue/component",
+			"coffeemix",
+			"executed",
+			"alreadyRun",
+			"isExecuted",
+			"base",
+			"baseConfiguration",
+			"configurationExtensions",
+			"configurations",
+			"base",
+			"sh",
+			"exec",
+			"path",
+			"writeFileSync",
+			"exists",
+			"createFile",
+			"createDirectory",
+			"path",
+			"throwErrorNext",
+			"nextThrow",
+			"isError",
+			"throwNext",
+			"promised",
+			"def",
+			"file",
+			"req",
+			"res",
+			"generated",
+			"iif",
+			"falsePromise",
+			"truePromise",
+			"buffer",
+			"getRequestCoffee",
+			"getRequestJsx",
+			"resolve_as_file",
+			"resolve_as_directory",
+			"resolve_node_modules",
+			"directoryName",
+			"resolveNodeModules",
+			"resolveAsDirectory",
+			"resolveAsFile",
+			"escapeRegExp",
+			";",
+			"replace",
+			"findSubstitute",
+			"name",
+			"names",
+			"StatelessComponentNode",
+			"update",
+			"TextNode",
+			"noop",
+			"descriptors",
+			"this$",
+			"parsed",
+			"key",
+			"hasOwn",
+			"Node",
+			"module",
+			"observeProp",
+			"observeChange",
+			"changeObservers",
+			"isChangeObservable",
+			"value",
+			"shallowCompareObject",
+			"shallowCompareArray",
+			"shallow",
+			"proxyProperty",
+			"proxyMethod",
+			"proxyProp",
+			"value",
+			"Versionable",
+			"onattach",
+			"notifyAttach",
+			"main",
+			"update",
+			"key",
+			"keys",
+			"select",
+			"realize",
+			"updating",
+			"const",
+			"events",
+			".proxies",
+			"names",
+			"fn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"|",
+			"",
+			">",
+			"",
+			"virtual `Node`",
+			"virtual `Node",
+			"Node",
+			"",
+			"versioned",
+			"",
+			"isStateful",
+			"props",
+			"realized",
+			"Node",
+			"@_realized",
+			"_realized",
+			"thisLength",
+			"@",
+			"",
+			" ",
+			"",
+			"=",
+			"listItem",
+			"listItems",
+			"createList",
+			"createComputed",
+			"createValue",
+			"  ",
+			"    ",
+			"@events",
+			"entries",
+			"items",
+			"entries",
+			"nameOrObj"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "devl.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
