@@ -13,7 +13,7 @@ spawn = (command, args...) ->
         .unref()
 
 startServer = ->
-    spawn 'coffee', [path.join __dirname, 'server.coffee']
+    spawn path.join(__dirname, 'node_modules', '.bin', 'coffee'), [path.join __dirname, 'server.coffee']
 
 checkServer = (callback) ->
     http.get 'http://127.0.0.1:3333/devl', ->
