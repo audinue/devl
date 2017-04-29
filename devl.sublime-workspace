@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"arg",
+				"args"
+			],
+			[
+				"chi",
+				"childProcess"
+			],
+			[
+				"star",
+				"started"
+			],
+			[
+				"ci",
+				"childProcess"
+			],
+			[
 				"bun",
 				"bundle"
 			],
@@ -86,10 +102,6 @@
 			[
 				"real",
 				"realize"
-			],
-			[
-				"chi",
-				"child"
 			],
 			[
 				"de",
@@ -502,18 +514,6 @@
 			[
 				"next",
 				"nextState"
-			],
-			[
-				"di",
-				"differentObject"
-			],
-			[
-				"no",
-				"notifyMounted"
-			],
-			[
-				"noti",
-				"notifyMounted"
 			]
 		]
 	},
@@ -527,13 +527,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "package Con",
+		"height": 366.0,
+		"last_filter": "Mark",
 		"selected_items":
 		[
 			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
 				"package Con",
-				"Package Control: List Unmanaged Packages"
+				"Package Control: Install Package"
 			],
 			[
 				"Inst",
@@ -541,10 +549,6 @@
 			],
 			[
 				"Remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"Package Control: ",
 				"Package Control: Remove Package"
 			],
 			[
@@ -640,10 +644,6 @@
 				"Set Syntax: CoffeeScript"
 			],
 			[
-				"Mark",
-				"Set Syntax: Markdown Light"
-			],
-			[
 				"Bab",
 				"Set Syntax: JavaScript (Babel)"
 			],
@@ -700,7 +700,7 @@
 				"Coffee: Display JavaScript"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -720,15 +720,22 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/audinue/Desktop/devl"
+		"/C/Users/audinue/Desktop/devl/node_modules/.bin"
 	],
 	"file_history":
 	[
-		"/C/Users/audinue/Desktop/devl/package.json",
 		"/C/Users/audinue/Desktop/devl/coffee-server.coffee",
+		"/C/Users/audinue/Desktop/devl/server.coffee",
+		"/C/Users/audinue/Desktop/devl/bin.js",
+		"/C/Users/audinue/Desktop/devl/cli.coffee",
+		"/C/Users/audinue/Desktop/devl/package.json",
+		"/C/Users/audinue/AppData/Roaming/npm/node_modules/devl/cli.coffee",
+		"/C/Users/audinue/Desktop/devl/bin.coffee",
+		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+		"/C/Users/audinue/Desktop/devl/node_modules/yargs/README.md",
+		"/C/Users/audinue/Desktop/devl/node_modules/rollup/README.md",
 		"/C/Users/audinue/Desktop/devl/devl-server.coffee",
 		"/C/Users/audinue/Desktop/hello.coffee",
-		"/C/Users/audinue/Desktop/devl/server.coffee",
 		"/C/Users/audinue/Desktop/hello-world.coffee",
 		"/C/Users/audinue/Desktop/devl/source-map-server.coffee",
 		"/C/Users/audinue/Desktop/devl/README.md",
@@ -844,14 +851,7 @@
 		"/C/Users/audinue/Desktop/activate.js",
 		"/C/Users/audinue/Desktop/test.js",
 		"/C/Users/audinue/Desktop/test.html",
-		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-execute/package.json",
-		"/C/Users/audinue/Desktop/selenium.js",
-		"/C/Users/audinue/Desktop/lib/lib.sublime-project",
-		"/C/Users/audinue/Desktop/lib/src/lib.coffee",
-		"/C/Users/audinue/Desktop/lib/test/lib.js",
-		"/C/Users/audinue/Desktop/lib/dist/lib.es.js",
-		"/C/Users/audinue/Desktop/lib/rollup.config.iife.js",
-		"/C/Users/audinue/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu"
+		"/C/Users/audinue/Desktop/node_modules/rollup-plugin-execute/package.json"
 	],
 	"find":
 	{

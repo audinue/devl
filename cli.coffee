@@ -5,15 +5,14 @@ http = require 'http'
 os = require 'os'
 opn = require 'opn'
 
-spawn = (command, args...) ->
-    childProcess.spawn command, args,
-            detached: true
-            stdio: 'ignore'
-            shell: true
-        .unref()
-
 startServer = ->
-    spawn path.join(__dirname, 'node_modules', '.bin', 'coffee'), [path.join __dirname, 'server.coffee']
+    childProcess.spawn 'start', [
+        '/b',
+        path.join __dirname, 'node_modules', '.bin', 'coffee'
+        path.join __dirname, 'server.coffee'
+    ],
+    shell: true
+    stdio: 'ignore'
 
 checkServer = (callback) ->
     http.get 'http://127.0.0.1:3333/devl', ->
